@@ -1,8 +1,8 @@
-# BSP Development for STM32F401xC (UART, SPI, I2C in Baremetal)
+# Low-Level Peripheral Driver for STM32F401xC (UART, SPI, I2C in Baremetal)
 
 ## Description
 
-This repository contains the Board Support Package (BSP) developed for the **STM32F401xC** microcontroller, designed to provide low-level hardware interface support for **UART**, **SPI**, and **I2C** peripherals in a **baremetal** environment. The project includes custom drivers and configurations for these protocols, without the use of higher-level libraries, ensuring optimized performance and reduced resource overhead.
+This repository contains the peripheral driver developed for the **STM32F401xC** microcontroller, designed to provide low-level hardware interface support for **UART**, **SPI**, and **I2C** peripherals in a **baremetal** environment. The project includes custom drivers and configurations for these protocols, without the use of higher-level libraries, ensuring optimized performance and reduced resource overhead.
 
 ## Features
 - **UART Driver**: Implemented for serial communication.
